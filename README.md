@@ -1,24 +1,8 @@
-# vuei18n
 
-## Project setup
-```
-yarn install
-```
+# Vue-i18n
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Testing vue-i18n lib
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![Imgur](https://imgur.com/V1QIlbP.png)
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Imgur](https://imgur.com/6Rb5NUF.png)

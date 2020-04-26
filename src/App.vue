@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <SelectLocale />
+    <HelloGator />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloGator from './components/HelloGator.vue'
+import SelectLocale from './components/SelectLocale.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloGator,
+    SelectLocale
   }
 }
 </script>
